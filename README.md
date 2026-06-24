@@ -138,12 +138,6 @@ WHERE marks > 80;
 
 ---
 
-## 📸 Project Screenshots
-
-Add screenshots here after running queries.
-
----
-
 ## 🎯 Learning Outcomes
 
 After completing this project I learned:
